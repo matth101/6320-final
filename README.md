@@ -2,6 +2,8 @@
 
 CS 6320 
 
+View demo: https://youtu.be/Zj6z0MO5rBQ
+
 ## Overview
 Resume Grader is a Python-based tool that analyzes resumes against job descriptions using Natural Language Processing (NLP) techniques. I wanted to simulate at a basic level how Applicant Tracking Systems (ATS) evaluate resumes, providing detailed matching scores and actionable feedback.
 
